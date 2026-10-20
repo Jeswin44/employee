@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "653d9e871234567890abcde1",
+    "name": "John Doe",
+    "position": "Senior Software Engineer",
+    "location": "Kochi",
+    "salary": 85000
+  },
+  {
+    "_id": "653d9e871234567890abcde2",
+    "name": "Jane Smith",
+    "position": "UI/UX Designer",
+    "location": "Trivandrum",
+    "salary": 72000
+  },
+  {
+    "_id": "653d9e871234567890abcde3",
+    "name": "Michael Scott",
+    "position": "Regional Director",
+    "location": "Bangalore",
+    "salary": 95000
+  },
+  {
+    "_id": "653d9e871234567890abcde4",
+    "name": "Jeswin Jaison",
+    "position": "Full Stack Developer",
+    "location": "Thrissur",
+    "salary": 90000
+  },
+  {
+    "_id": "6ad76bd3d37ea46ca2a0837d",
+    "name": "Robert Downey",
+    "location": "Ernakulam",
+    "position": "Lead Architect",
+    "salary": 98000
+  }
+]
